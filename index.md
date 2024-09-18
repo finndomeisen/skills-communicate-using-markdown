@@ -1,9 +1,9 @@
-# Big Header
+# Die Überschrift
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [ ] Farbschema
+- [ ] Tutorial gemacht
 - [x] Introduce myself to the world
-- [ ] Win
+- [ ] Gewinnen
 - [x] This
 
 
